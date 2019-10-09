@@ -6,9 +6,6 @@ permalink:  cli_project_holiday_crochet_patterns
 ---
 
  
-
-# CLI Project Holiday_Crochet_Patterns 
- 
 	When I hear the word software developer the first thing that comes to mind is a nerdy person with their head zoned into their computer tapping away at random keys.  It wasn't until my first CLI project that I came to the conclusion that Software developers are essentially artist, but not in the traditional manner rather a coding sense.  Similar to an artist a Developer has to get inspired to create something useful to themselves and/or others.   My obligated inspiration was to create an interactive Holiday Crochet Pattern (HCP) Program. The HCP program would allow a user to initialize the program by typing bin/console + enter in the terminal brief pause.  Then in the terminal appears the content 
 
 	Welcome to your Holiday crochet pattern program!
@@ -57,3 +54,4 @@ Vaule= attribute.css(‘span’).length == 2 ? Attribute.css(‘span’).last :
 	For example Crochet gauge: 16 sc = 4 [10 cm]; 14 rows = 4 [10 cm] in single crochet. CHECK YOUR GAUGE. Use any size hook to obtain the gauge. 
 Crochet gauge is the first element in the span tag of the . attrLabels class. Secondary element within span tag of the attrLabels class is describes the key ie making it the value.  .last takes the last element within the span tag of the attrLabels class. A finally condition is set and where the inner text of all the elements with in the span tag are returned. .Capitalize makes the first letter in the inner text Capitalize. .gsub replaces text.  attr_hash is returned .compact loops over the condition and getting rid of keys with empty values.
 That is the conclusion of my CrochetScraper class and methods. I can say I am proud of MY masterpiece. One project under my belt many more to come. 
+
