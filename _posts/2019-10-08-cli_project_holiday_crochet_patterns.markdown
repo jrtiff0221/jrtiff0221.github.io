@@ -8,40 +8,39 @@ permalink:  cli_project_holiday_crochet_patterns
  
 When I hear the word software developer the first thing that comes to mind is a nerdy person with their head zoned into their computer tapping away at random keys.  It wasn't until my first CLI project that I came to the conclusion that Software developers are essentially artist, but not in the traditional manner rather a coding sense.  Similar to an artist a Developer has to get inspired to create something useful to themselves and/or others.   My obligated inspiration was to create an interactive Holiday Crochet Pattern (HCP) Program. The HCP program would allow a user to initialize the program by typing bin/console + enter in the terminal brief pause.  Then in the terminal appears the content 
 
-	Welcome to your Holiday crochet pattern program!
+Welcome to your Holiday crochet pattern program!
 	
-	1. Silly Monster Trick or Treat Bag
-	2. Fabulous Fall Table Runner
-	3. Five Minute Hearts
-	4. Beer Mug Bottle Cozy
-	5. Cute Turkey Crochet Wreath
-	6. Lucky Leprechaun Hat
-	7. Rustic Stars
-	8. Hanging Crochet Skeleton
-	9. Snowflake
-	10. Candy Corn Wreath
-	11. Crochet Candy Bar Clutch
-	12. Super Ghoster Coasters
+1. Silly Monster Trick or Treat Bag
+2. Fabulous Fall Table Runner
+3. Five Minute Hearts
+4. Beer Mug Bottle Cozy
+5. Cute Turkey Crochet Wreath
+6. Lucky Leprechaun Hat
+7. Rustic Stars
+8. Hanging Crochet Skeleton
+9. Snowflake
+10. Candy Corn Wreath
+11. Crochet Candy Bar Clutch
+12. Super Ghoster Coasters
 
-	Please choose a pattern number(1-12) from the list.
+Please choose a pattern number(1-12) from the list.
 
-	The user selects the number 10 from the list, again brief pause occurs then more text appears in the command line
- 	Title: Candy Corn Wreath
+The user selects the number 10 from the list, again brief pause occurs then more text appears in the command line
+Title: Candy Corn Wreath
 
-	Description: This easy crochet wreath pattern is the perfect piece of fall decor. With autumn-shaded crochet flowers and little crochet candy corn bits, this festive little wreath will help usher in the changing seasons. 
+Description: This easy crochet wreath pattern is the perfect piece of fall decor. With autumn-shaded crochet flowers and little crochet candy corn bits, this festive little wreath will help usher in the changing seasons. 
 
-	From the Blogger: "This fun holiday wreath features crochet candy corn and candy corn colored flowers. Made on a 12" Styrofoam wreath, it is first wrapped with worsted weight yarn (I used corn meal, a dusty yellow color) and then wrapped with 1/4" wide brown ribbon. The candy corn and flowers are then crochet and added to the wreath with the aid of florist pins. Florist pins are found in most craft stores in the floral department. They are wire, U shaped pins that are inserted into the wreath and hold the candy corn and flowers in place."
+From the Blogger: "This fun holiday wreath features crochet candy corn and candy corn colored flowers. Made on a 12" Styrofoam wreath, it is first wrapped with worsted weight yarn (I used corn meal, a dusty yellow color) and then wrapped with 1/4" wide brown ribbon. The candy corn and flowers are then crochet and added to the wreath with the aid of florist pins. Florist pins are found in most craft stores in the floral department. They are wire, U shaped pins that are inserted into the wreath and hold the candy corn and flowers in place."
 
-	Rating: Easy
+Rating: Easy
 
-	Link: http://donnascrochetdesigns.com/more/free-crochet-pattern-candy-corn-flower-wreath.html
+Link: http://donnascrochetdesigns.com/more/free-crochet-pattern-candy-corn-flower-wreath.html
 
-	Crochet hook: H/8 or 5 mm hook
+Crochet hook: H/8 or 5 mm hook
 
-	Yarn weight: (4) Medium Weight/Worsted Weight and Aran (16-20 stitches to 4 inches)
+Yarn weight: (4) Medium Weight/Worsted Weight and Aran (16-20 stitches to 4 inches)
 
-	Crochet gauge: candy corn 1" wide
-flower 2" wide
+Crochet gauge: candy corn 1" wide flower 2" wide
 Finished size: 12" wreath
 
 Im not going to get into depth about all the methods within my two class. I am only going to describe the last method built in my CrochetScraper class. 
