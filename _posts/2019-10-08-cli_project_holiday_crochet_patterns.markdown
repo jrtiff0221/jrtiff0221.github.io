@@ -6,7 +6,7 @@ permalink:  cli_project_holiday_crochet_patterns
 ---
 
  
-	When I hear the word software developer the first thing that comes to mind is a nerdy person with their head zoned into their computer tapping away at random keys.  It wasn't until my first CLI project that I came to the conclusion that Software developers are essentially artist, but not in the traditional manner rather a coding sense.  Similar to an artist a Developer has to get inspired to create something useful to themselves and/or others.   My obligated inspiration was to create an interactive Holiday Crochet Pattern (HCP) Program. The HCP program would allow a user to initialize the program by typing bin/console + enter in the terminal brief pause.  Then in the terminal appears the content 
+When I hear the word software developer the first thing that comes to mind is a nerdy person with their head zoned into their computer tapping away at random keys.  It wasn't until my first CLI project that I came to the conclusion that Software developers are essentially artist, but not in the traditional manner rather a coding sense.  Similar to an artist a Developer has to get inspired to create something useful to themselves and/or others.   My obligated inspiration was to create an interactive Holiday Crochet Pattern (HCP) Program. The HCP program would allow a user to initialize the program by typing bin/console + enter in the terminal brief pause.  Then in the terminal appears the content 
 
 	Welcome to your Holiday crochet pattern program!
 	
