@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "HTTP request and response"
-date:       2019-11-19 19:19:16 +0000
+date:       2019-11-19 14:19:17 -0500
 permalink:  http_request_and_response
 ---
 
