@@ -1,0 +1,9 @@
+---
+layout: post
+title:      "Scaffold vs. Resource Generators"
+date:       2019-12-07 05:22:00 +0000
+permalink:  scaffold_vs_resource_generators
+---
+
+Up until this point in my Software development learning at Flatiron, I have been manually building my controllers, views, models, and migrations.  I recently discovered that Rails has various generators that I can use to build my Rails project.  I created a fake rails project to play around with the generators. First I input rails new Crochet_Posts in my terminal a new rails application is run.  In order to see what generators rails has make sure to cd in the Crochet_Posts directory in the termial.  Input rails generate in the terminal to see all the generators available in the Crochet_Posts. There are 18 generators that can be used.  rails g scaffold Crochet_Posts title:string description:text --no-test-framework.  Scaffold generator creates a full set of  model, a database for the model, a controller to manipulate it, views to view and manipulate data and test suits for every thing listed previously.  A migration is pending, so rails db:migrate needs to be run in the terminal.  Scaffold generators should never be used to create a project, because the generator creates everything plus some other unnecessary files.  It would take longer to modify the files that need to be modified, as well as delete unnecessary files.  I created a new fake project with rails  g resource Crochet_Posts title:string description:text author:string --no-test-framework. This generator creates the core functionality of my project without the excess files.  A migration file, model file, controller file, a view directory without view templates, a view helper file, a coffeescript file and a scss file.  The resource generator allows me to create my application in the manner I want it to work. I am looking forward to creating my rails project and using rails generators to implemtent code in the manner I want.
+
